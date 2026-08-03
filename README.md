@@ -55,7 +55,6 @@ Staged and gated: visual inspection → continuity short-hunt on every rail  →
 - `kicad/` — schematic and PCB source
 - `gerbers/` — fabrication files as sent to JLCPCB
 - `images/` — renders and build photos
-- `BOM.md` — full bill of materials with substitution notes
 
 ## First real job
 
