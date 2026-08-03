@@ -3,7 +3,7 @@
 
 A from-scratch benchtop power supply: adjustable 1.4–11.9 V buck-regulated main output with live voltage/current display, plus fixed 5 V and 3.3 V rails. Designed in KiCad, fabricated by JLCPCB, hand-assembled, and brought up with a staged test procedure. 
 
-![Assembled supply powering a load](images/hero.jpg)
+![Assembled supply powering a load](images/hero.JPG)
 
 ## Specifications (measured)
 
